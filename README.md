@@ -14,7 +14,7 @@ Evaluation Functions.<br>
 Files: index.v2 + app.v2.js
 
 3. Lesson 3:<br> 
-Regular Expressions [Part 2] -
+Regular Expressions [Part 2] - 
 Metacharacter Symbols.<br> 
 Files: index.v3 + app.v3.js
 
