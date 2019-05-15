@@ -31,4 +31,5 @@ Files: index.v5 + app.v5.js
 6. Lesson 6: <br> 
 Regular Expressions - Form
 Validation Project.<br>
-Files: index.v6 + app.v6.js
+Made a new repo for the project, see: <br>
+https://github.com/PhilipAndes/Regular-Expressions-Form-Validation-Project
