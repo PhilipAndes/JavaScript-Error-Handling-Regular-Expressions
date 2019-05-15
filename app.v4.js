@@ -45,7 +45,7 @@ re = /Hel{2,}o/; // Must occur at least {m} times, so in this case must be at le
 
 // Paretheses () - Grouping
 re = /[0-9]x{3}/; // in this case we are looking for a number between 0 and 9 followed by x and we want that 3 times, in this case it is going to look for a number and then x 3 times, so we have to put it between paretheses like:
-re = /([0-9]x){3}/; // this will keep going even if you put in: const str = '3x3x3x4x4x'; so if we only want to look for 3times number x we can use the $ sign like:
+re = /([0-9]x){3}/; // this will keep going even if you put in: const str = '3x3x3x4x4x'; so if we only want to look for 3times number x we can use the $ sign and ^ like:
 re = /^([0-9]x){3}$/;
 
 // String to match:
